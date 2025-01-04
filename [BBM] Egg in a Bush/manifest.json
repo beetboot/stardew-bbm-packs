@@ -1,0 +1,12 @@
+﻿{
+	"Name": "[BBM] Egg in a Bush",
+	"Author": "BeetBoot",
+    "Version": "1.0.0",
+	"Description": "BushBloomMod content pack for foraging eggs from bushes.",
+	"UniqueID": "BeetBoot.EggInABushBBM",
+	"MinimumApiVersion": "2.11.2",
+	"UpdateKeys": [ "nexus:15805" ],
+	"ContentPackFor": {
+		"UniqueID": "NCarigon.BushBloomMod"
+	}
+}

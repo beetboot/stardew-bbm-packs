@@ -1,0 +1,69 @@
+﻿[{
+	"ShakeOff": 174,
+	"StartSeason": "spring",
+	"StartDay": 1,
+	"EndSeason": "spring",
+	"EndDay": 28,
+	"Texture": "assets\\egg.png",
+	"Chance": 0.01
+},{
+	"ShakeOff": 176,
+	"StartSeason": "spring",
+	"StartDay": 1,
+	"EndSeason": "spring",
+	"EndDay": 28,
+	"Texture": "assets\\egg.png",
+	"Chance": 0.04
+},{
+	"ShakeOff": 174,
+	"StartSeason": "summer",
+	"StartDay": 1,
+	"EndSeason": "fall",
+	"EndDay": 28,
+	"Texture": "assets\\egg.png",
+	"Chance": 0.005
+},{
+	"ShakeOff": 176,
+	"StartSeason": "summer",
+	"StartDay": 1,
+	"EndSeason": "fall",
+	"EndDay": 28,
+	"Texture": "assets\\egg.png",
+	"Chance": 0.02
+},
+
+{
+	"ShakeOff": 180,
+	"StartSeason": "spring",
+	"StartDay": 1,
+	"EndSeason": "spring",
+	"EndDay": 28,
+	"Texture": "assets\\brownegg.png",
+	"Chance": 0.01
+},{	
+	"ShakeOff": 182,
+	"StartSeason": "spring",
+	"StartDay": 1,
+	"EndSeason": "spring",
+	"EndDay": 28,
+	"Texture": "assets\\brownegg.png",
+	"Chance": 0.04
+},{
+	"ShakeOff": 180,
+	"StartSeason": "summer",
+	"StartDay": 1,
+	"EndSeason": "fall",
+	"EndDay": 28,
+	"Texture": "assets\\brownegg.png",
+	"Chance": 0.005
+},{
+
+	"ShakeOff": 182,
+	"StartSeason": "summer",
+	"StartDay": 1,
+	"EndSeason": "fall",
+	"EndDay": 28,
+	"Texture": "assets\\brownegg.png",
+	"Chance": 0.02
+},
+]
